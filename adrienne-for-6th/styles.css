@@ -142,7 +142,7 @@ h1{font-weight:800;font-size:clamp(2.9rem,7vw,5.4rem)}
 h2{font-weight:700;font-size:clamp(2rem,4.4vw,3.2rem)}
 h3{font-weight:700;font-size:clamp(1.25rem,2.2vw,1.55rem);letter-spacing:.04em}
 .lede{font-size:clamp(1.1rem,1.6vw,1.28rem);color:var(--ink-soft);max-width:44rem;margin-top:1.25rem}
-.on-navy .lede{color:#DFDACD}
+.on-navy .lede,.hero .lede{color:#DFDACD}
 
 /* ---------- Sections ---------- */
 section{padding:clamp(3.5rem,8vw,6.5rem) 0}
