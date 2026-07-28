@@ -180,6 +180,7 @@ section{padding:clamp(3.5rem,8vw,6.5rem) 0}
   content:"";position:absolute;inset:1.1rem -1.1rem -1.1rem 1.1rem;
   border:2px solid var(--red);border-radius:4px;z-index:-1;
 }
+.hero-photo img.crop-top{object-position:50% 12%}
 @media (max-width:860px){
   .hero-grid{grid-template-columns:1fr}
   .hero-photo{max-width:26rem}
